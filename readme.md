@@ -23,8 +23,8 @@ The script takes a list of company stock tickers and scrapes financial metrics f
    To get started, first clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/moeez-tariq/stockAnalysisScrape.git
-   cd stockAnalysisScrape
+   git clone https://github.com/AZ0324/stock_analysis_scraped
+   cd stock_analysis_scraped
    ```
 
 2. **Install Dependencies**
